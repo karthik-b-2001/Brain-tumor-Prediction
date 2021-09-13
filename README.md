@@ -13,5 +13,9 @@ Usage:
   
   The ".h5" file is the deep learning model created. The demo is shown below.
   ![image](https://user-images.githubusercontent.com/69049502/133123338-ba24d511-de45-4502-accb-1a7f44470177.png)
+  
+  ![image](https://user-images.githubusercontent.com/69049502/133123533-68e574eb-f857-4328-aab6-64146cb23d7c.png)
 
+
+  The above images show the detection of a tumor with probablity.
   
